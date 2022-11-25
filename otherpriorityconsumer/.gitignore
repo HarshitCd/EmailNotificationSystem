@@ -1,5 +1,5 @@
-*/HELP.md
-*/target/
+HELP.md
+target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -30,10 +30,4 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-*/.vscode/
-
-*/.mvn
-*/mvnw
-*/mvnw.cmd
-
-/TODO.md
+.vscode/
